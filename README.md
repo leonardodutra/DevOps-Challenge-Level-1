@@ -1,11 +1,11 @@
 # DevOps-Challenge-Level-1
 
-Deploy local
-docker pull wyveo/nginx-php-fpm
-git clone https://github.com/leonardodutra/DevOps-Challenge-Level-1.git
-cd DevOps-Challenge-Level-1
-bash start.sh
-access => http://localhost:56733/
+Deploy local<br />
+docker pull wyveo/nginx-php-fpm<br />
+git clone https://github.com/leonardodutra/DevOps-Challenge-Level-1.git<br />
+cd DevOps-Challenge-Level-1<br />
+bash start.sh<br />
+access => http://localhost:56733/<br />
 
 
 
